@@ -1,5 +1,23 @@
 /* Here we can set styles for this lab page that we don't want to effect others pages */
-
+h1 {color: red}
+body{border:5px dotted red;
+     padding: 30px;
+     background-color: pink
+}
+#MainBits {
+    border: 5px dotted orange;
+    margin:3px;
+    background-color: #ffad7d;
+}
+#imageborder {
+    border: 5px dotted orange;
+    margin: 4px;
+    background-color: #f0b859;
+}
+#coffee {
+  border: 2px dotted white;
+  background-color: #edb780;
+}
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 .minor-section {
     padding: 10px;
