@@ -1,7 +1,9 @@
 /* we can use a single css file to style all the files in our wwebsite */
 
 /* you can pick your own background colors, text colors, and fonts */
-
+#profilephoto {width: 250px;
+  margin: 10px;
+  height: 250px;}
 /* we can select an html element tag, in this case "body" will apply to the whole document */
 body {
   background-color: #50808E;
