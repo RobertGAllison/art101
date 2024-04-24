@@ -1,3 +1,14 @@
+//Prompt User
+    //Choose Rock, Paper or Scissors
+//Accept User Input
+//Computer Chooses Random Move
+//Evaluate winner
+    //Check win conditions
+    //Repeat from Step 1 for games out of 3
+//Display Results
+    //Displays final results of overall game
+
+
 // index.js - purpose and description here
 // Author: Your Name
 // Date:
