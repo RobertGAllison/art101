@@ -21,7 +21,7 @@ const myMainRide={
       year: 2004,
       age: function(){
            return 2024 - this.year;
-      }
+      },
 };
 
 //Output Below:
