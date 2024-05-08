@@ -7,8 +7,8 @@
 //cool function
 
 function CoolSquareFunction(x){
-    var results= x*x;
-    return results;
+    var result= x*x;
+    return result;
 };
 
 //test function
