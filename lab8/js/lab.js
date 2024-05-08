@@ -21,7 +21,7 @@ console.log("My array: ", array);
 
 var result = array.map(CoolSquareFunction);
 
-console.log("Squared array: ", results);
+console.log("Squared array: ", result);
 
 //
 var result = array.map(function(x){
