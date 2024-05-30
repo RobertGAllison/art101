@@ -2,6 +2,7 @@
  * Robert G Allison
  * Tuesday May 28th
  * Javscript for Lab13
+ * Major Help From: CHATGPT
  */
 
 function fizzBuzz() {
