@@ -9,6 +9,7 @@
     }
     
     h1,h2,h3 {
+    border: dotted 2px red;
       font-family: sans-serif;
     }
     
